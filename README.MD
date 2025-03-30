@@ -1,5 +1,5 @@
 # Shopping Cart Project - README
-
+Demo:(https://ahmed-rbr.github.io/shoping-cart/)
 ## Overview
 
 A responsive e-commerce shopping cart system built with HTML, CSS, and JavaScript. This project features product listings, cart functionality with quantity adjustments, and a smooth UI/UX experience.
